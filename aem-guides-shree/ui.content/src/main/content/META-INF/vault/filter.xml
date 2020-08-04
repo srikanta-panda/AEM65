@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/shree" mode="merge"/>
+    <filter root="/content/shree" mode="merge"/>
+    <filter root="/content/dam/shree" mode="merge"/>
+    <filter root="/content/experience-fragments/shree" mode="merge"/>
+</workspaceFilter>
